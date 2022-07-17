@@ -1,2 +1,6 @@
 /* Instalación de Angular Material con el Angular CLI */
 ng add @angular/material
+
+/* Se pueden utilizar templates predefinidos por Angular Material para  los componentes usando:
+ng generate @angular/material:[template] [nombre-componente]
+    -> Ejemplo: ng generate @angular/material:table tabla
